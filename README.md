@@ -34,9 +34,11 @@
 - **Mini Project:** Wine Analysis Pro
 
 - **[CVPilot](https://github.com/Jindevelopment/CVPilot)** — User CV Analysis and Feedback Services
+[![PDF Report](https://img.shields.io/badge/Open-PDF-blue)](https://github.com/Jindevelopment/Jindevelopment/blob/main/CVPilot.pdf)
 
 
 - **[Allergy_Detector](https://github.com/Jindevelopment/Allergy_Detector)** — OCR 기반 성분표 인식
+[![PDF Report](https://img.shields.io/badge/Open-PDF-blue)](https://github.com/Jindevelopment/Jindevelopment/blob/main/CursorAI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EC%B5%9C%EC%A2%85.pdf)
 
 
 ## 🧭 Interest
