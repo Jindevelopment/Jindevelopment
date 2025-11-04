@@ -1,8 +1,8 @@
 <!-- 프로필 README (https://github.com/<username>/) -->
 
-<h1 align="center">안녕하세요, 저는 최진혁입니다 👋</h1>
+<h1 align="center"> Jindevelopment 👋</h1>
 <p align="center">
-  백엔드 개발자가 되기 위해 성장 중인 정보통신공학과 3학년입니다.
+  Third-year student, Department of Information and Communication Engineering, Myongji University 
 </p>
 
 <p align="center">
@@ -13,34 +13,37 @@
   <a href="https://github.com/<your_id>?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/GitHub-Repos-black?logo=github"></a>
 </p>
 
-## 🔭 현재 하는 일
-- 백엔드: Django / FastAPI 기반 웹 개발 연습
-- 데이터/AI: 모델 학습 및 시각화 실습(Fashion-MNIST 등)
-- 프로젝트: <프로젝트명 1>, <프로젝트명 2> …
+## 🎓 Study
 
-## 🛠️ 기술 스택
-- **Languages:** Python, JavaScript, (C/C++)
-- **Backend:** Django, FastAPI, Flask
-- **DB:** PostgreSQL, SQLite, Firebase/Firestore
+**GPA:** 4.39 / 4.5  
+
+**Certifications**
+- TOEIC Speaking: IH
+- ADSP 
+- SQLD 
+- Computer Literacy Level 2  
+
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, (C/C++)
+- **Backend:** 
+- **DB:** SQLite, Supabase
 - **ML/CV:** TensorFlow, scikit-learn, OpenCV, scikit-image
-- **Infra/Etc:** Docker, Git/GitHub, Linux
+- **Infra/Etc:** 
+ 
+## 📌 Project
+- **Mini Project:** Wine Analysis Pro
 
-## 📌 대표 프로젝트
-- **[프로젝트명](<repo_link>)** — 한 줄 설명
-  - 핵심 기능: A, B, C
-  - 기술: Django, PostgreSQL, Redis
+- **[CVPilot](https://github.com/Jindevelopment/CVPilot)** — User CV Analysis and Feedback Services
 
-- **[프로젝트명](<repo_link>)** — 한 줄 설명
-  - 핵심 기능: A, B, C
-  - 기술: FastAPI, OpenCV
 
-## 🧭 관심사
-- 백엔드 아키텍처, 데이터 파이프라인, 컴퓨터 비전, 제품화/배포
+- **[Allergy_Detector](https://github.com/Jindevelopment/Allergy_Detector)** — OCR 기반 성분표 인식
 
-## 📫 연락
-- Email: <your_email>
-- Blog: <your_blog_link>
-- LinkedIn: <your_linkedin>
+
+## 🧭 Interest
+- 
+
+## 📫 Contact
+- Email: <jinhyeok1001@naver.com>
 
 <!-- 깃허브 통계 위젯 (원하면 사용)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_id>&layout=compact)
