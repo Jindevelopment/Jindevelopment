@@ -23,15 +23,25 @@
 - SQLD 
 - Computer Literacy Level 2  
 
+**Awards**
+- 🥇 Grand Prize (대상) — Myongji University Cursor AI-Based Competition
+- ![award](https://github.com/Jindevelopment/Jindevelopment/blob/main/KakaoTalk_20251105_014745348.jpg)
+
+**Activities / Training**
+- 📊 Completed the **FOM (Focus on Data Mining)** data analysis club program
+![certificate](https://github.com/Jindevelopment/Jindevelopment/blob/main/KakaoTalk_20251105_014755435.jpg)
+
+  
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, (C/C++)
-- **Backend:** 
-- **DB:** SQLite, Supabase
-- **ML/CV:** TensorFlow, scikit-learn, OpenCV, scikit-image
-- **Infra/Etc:** 
+- **Backend:** FastAPI, Flask  
+- **DB:** SQLite, Supabase, Firebase/Firestore, PostgreSQL  
+- **ML/CV:** TensorFlow, scikit-learn, OpenCV, scikit-image, PyTorch  
+- **Infra/Etc:** Docker, Git/GitHub, Streamlit, Next.js, Tailwind CSS, Figma
+
  
 ## 📌 Project
-- **Mini Project:** Wine Analysis Pro
+- **Mini Project(Data Analysis):** Wine Analysis Pro
 
 - **[CVPilot](https://github.com/Jindevelopment/CVPilot)** — User CV Analysis and Feedback Services
 [![PDF Report](https://img.shields.io/badge/Open-PDF-blue)](https://github.com/Jindevelopment/Jindevelopment/blob/main/CVPilot.pdf)
